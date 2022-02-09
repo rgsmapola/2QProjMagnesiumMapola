@@ -1,0 +1,67 @@
+
+h1 {
+	font-family:'Pacifico',cursive; 
+	text-align:center;
+	margin:0px 0px 14px 0px;
+}
+
+#synth {
+	text-decoration:none;
+}
+
+#synth:hover {
+	text-decoration:underline;
+}
+
+iframe {
+	font-family:'Roboto';
+	text-align:center;
+	width:600px;
+	font-size: 30px;
+}
+
+body {
+	background-color:#f7dcdf;
+	font-family:'Roboto';
+	text-align:center;
+}
+
+hr {
+	margin:0px;
+	width:auto;
+	height:2px;
+	background-color:black;
+	border-color:black;
+}
+
+#contentstable {
+	border: 2px black solid;
+	position:absolute;
+	right:40px;
+	width: 290px;
+	margin-top: 90px;
+}
+
+#twitter {
+	margin-left:60px;
+	margin-right:60px;
+}
+
+a {
+	color:black;
+}
+
+#content_icons {
+	transform: scale(0.5, 0.5);
+}
+
+div {
+	width:600px;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	margin-top: 2px;
+}
